@@ -1,0 +1,5 @@
+{
+  "name": "Perfect Prompt Generator",
+  "description": "An application that transforms your rough ideas into perfectly crafted, detailed prompts for AI models using the Gemini API.",
+  "requestFramePermissions": []
+}
